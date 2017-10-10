@@ -11,4 +11,6 @@ It looks for a excel file named ExcelFile. In this files there are differen shee
 
 The script takes this file and create a new file with the dependency in one single sheet. The output file is named outputExcelFile.
 
-To run the script execute the command python excelPython.py
+To run the script execute the command 'python excelPython.py'
+
+Alternatively you can launch the script gui.py with the command 'python gui.py' and press the button 'Create New Match. The gui.py is a simple gui to search and inspect the elements.
